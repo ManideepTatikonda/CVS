@@ -1,9 +1,10 @@
 {
   "name": "aetna-code-test",
   "version": "1.0.0",
-  "description": "## Pre-requisites",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "jest"
   },
   "keywords": [],
